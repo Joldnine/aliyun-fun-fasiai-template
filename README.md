@@ -1,2 +1,2 @@
-# aliyun-fun-fasiai-template
-The Aliyun function compute template for fastai
+# aliyun-fun-fastai-template
+The Aliyun Function Compute template for fastai
