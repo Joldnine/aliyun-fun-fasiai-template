@@ -1,0 +1,7 @@
+{
+    "name": "fastai-python3",
+    "description": "fastai function",
+    "vars": {
+        "service": "{{ projectName }}"
+    }
+}
